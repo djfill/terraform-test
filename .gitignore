@@ -1,0 +1,18 @@
+### OSX
+*.DS_Store
+
+### Terraform
+# Compiled files
+*.tfstate
+*.tfstate.*backup
+*.out
+
+# Module directory
+.terraform/
+
+### Ansible
+*.retry
+
+### Swap file
+*.swp
+
